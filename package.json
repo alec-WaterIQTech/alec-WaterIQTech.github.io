@@ -13,6 +13,7 @@
     "daisyui": "^5.0.35",
     "lucide-react": "^0.510.0",
     "next": "15.3.2",
+    "next.js": "^1.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0"
@@ -27,5 +28,17 @@
     "eslint-config-next": "15.3.2",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.6"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alec-WaterIQTech/alec-WaterIQTech.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alec-WaterIQTech/alec-WaterIQTech.github.io/issues"
+  },
+  "homepage": "https://github.com/alec-WaterIQTech/alec-WaterIQTech.github.io#readme",
+  "description": ""
 }

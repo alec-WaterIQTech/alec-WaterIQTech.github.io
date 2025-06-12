@@ -22,19 +22,31 @@ export default function ProductPage() {
         <ProductCard
           title="Sentinel AIQ"
           description="Autonomous, solar-powered flagship system equipped with Pulsar 4000 for large-scale algae defense."
+<<<<<<< HEAD
           image="/img/AIQ-edit.png"
+=======
+          image="/img/featured/AIQ-edit.png"
+>>>>>>> 7c11a7c (Initial commit)
           link="/products/sentinel-packages"
         />
         <ProductCard
           title="Pulsar Series"
           description="High-performance ultrasonic emitters for ponds, lakes, and treatment plants with IoT support."
+<<<<<<< HEAD
           image="/img/Pulsar.png"
+=======
+          image="/img/featured/Pulsar.png"
+>>>>>>> 7c11a7c (Initial commit)
           link="/products/pulsar"
         />
         <ProductCard
           title="BioPulse 1000"
           description="Purpose-built to prevent biofilm formation, helping defend against zebra mussels and biofouling."
+<<<<<<< HEAD
           image="/img/Biopulse-bi-directional.png"
+=======
+          image="/img/featured/Biopulse-bi-directional.png"
+>>>>>>> 7c11a7c (Initial commit)
           link="/products/biopulse"
         />
       </section>

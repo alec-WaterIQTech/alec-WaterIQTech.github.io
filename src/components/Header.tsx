@@ -10,7 +10,11 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="cursor-pointer">
           <Image
+<<<<<<< HEAD
             src="/img/wiqt-vertical-logo.png"
+=======
+            src="/img/featured/wiqt-vertical-logo.png"
+>>>>>>> 7c11a7c (Initial commit)
             alt="WaterIQ Technologies Logo"
             width={200}
             height={200}

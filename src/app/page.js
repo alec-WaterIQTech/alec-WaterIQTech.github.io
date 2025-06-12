@@ -61,37 +61,61 @@ export default function Home() {
             This list highlights common applications, but we’re always ready to explore unique challenges and custom solutions.
           </p>
           <div className="grid grid-cols-2 gap-8 text-xl text-white font-semibold">
+<<<<<<< HEAD
             <div className="bg-[url(/img/reservoir.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/reservoir.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Water Reservoirs
               </div>
             </div>
+<<<<<<< HEAD
             <div className="bg-[url(/img/WWT.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/WWT.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Wastewater Treatment Plants
               </div>
             </div>
+<<<<<<< HEAD
             <div className="bg-[url(/img/golf-course.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/golf-course.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Golf Courses             
               </div>
             </div>
+<<<<<<< HEAD
             <div className="bg-[url(/img/irrigation-system.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/irrigation-system.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Irrigation Systems
               </div>
             </div>
+<<<<<<< HEAD
             <div className="bg-[url(/img/pond.jpg)] bg-cover bg-bottom h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/pond.jpg)] bg-cover bg-bottom h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Ponds
               </div>
             </div>
+<<<<<<< HEAD
             <div className="bg-[url(/img/lake.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+=======
+            <div className="bg-[url(/img/featured/lake.jpg)] bg-cover bg-center h-40 rounded-lg relative">  
+>>>>>>> 7c11a7c (Initial commit)
               <div className="absolute inset-0 bg-black/40 rounded-lg"></div>
               <div className="relative z-10 flex items-center justify-center h-full">
                 Lakes
@@ -107,7 +131,11 @@ export default function Home() {
           {/* Image with fade on right side */}
           <div className="relative w-full md:w-3/4 h-auto md:h-90">
             <img
+<<<<<<< HEAD
               src="img/Water_IQ-aaron_cress-Print-0052-cropped.jpg"
+=======
+              src="img/featured/Water_IQ-aaron_cress-Print-0052-cropped.jpg"
+>>>>>>> 7c11a7c (Initial commit)
               alt="Ultrasonic AIQ system in action"
               className="h-full w-full object-cover object-right rounded-l-3xl mask-r-from-75%"
             />
